@@ -1,2 +1,2 @@
 # VisionTransformers
- This repository contains vision transformers architechture and implementation for semantic segmentation tasks.
+ This repository contains vision transformers architecture and implementation for semantic segmentation tasks.
