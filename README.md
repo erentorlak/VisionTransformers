@@ -46,6 +46,7 @@ Vision Transformers (ViTs) are a novel approach to image processing that applies
      - [Original Dataset](https://huggingface.co/datasets/zhoubolei/scene_parse_150): The original version of the dataset containing a broader set of classes.
      - [Processed Dataset](https://huggingface.co/datasets/erent/scene_parse_5class): A refined version of the dataset, tailored to focus on 5 specific classes for more targeted segmentation tasks.
      - [My Model](https://huggingface.co/erent/scene_parse_5class): The model fine-tuned on this processed dataset, designed for precise scene parsing.
+![image](https://github.com/user-attachments/assets/4c14538a-a481-4806-88e2-e43c00934d64)
 
 2. **Sidewalk-Semantic**:
    - **Purpose**: This dataset is focused on identifying and segmenting objects commonly found in sidewalk environments, including pedestrians, vehicles (cars and bicycles), and traffic signs.
@@ -53,6 +54,7 @@ Vision Transformers (ViTs) are a novel approach to image processing that applies
    - **Resources**:
      - [Original Dataset](https://huggingface.co/datasets/segments/sidewalk-semantic): The original dataset, encompassing a wide range of sidewalk-related objects.
      - [My Model](https://huggingface.co/erent/sidewalk_semantic_4class): The model fine-tuned on this Processed dataset, optimized for segmentation of sidewalk-related objects.
+![image](https://github.com/user-attachments/assets/d99d59f2-b3d9-49ad-aba4-9177fc1b8d14)
 
 
 
